@@ -1,0 +1,1 @@
+export const Message = {error:true, message: 'somenthing went wrong'}
